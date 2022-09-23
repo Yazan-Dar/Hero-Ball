@@ -1,0 +1,1 @@
+# Die Quellenangaben-datei und die Anleitung befindet sich im Ordner Dokumente.

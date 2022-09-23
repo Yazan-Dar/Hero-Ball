@@ -1,0 +1,50 @@
+Quellen:
+
+Changing between Cameras:	(Script "PlayerMovement")
+Author:  TheArtist
+URL: https://answers.unity.com/questions/16146/changing-between-cameras.html
+
+Camera Zoom:	(Script "MainCameraController")
+Author: riifk1215
+URL: https://forum.unity.com/threads/smooth-mouse-scroll-camera-zoom-help.149485/
+
+Move Transform to Target:	(Script "FallingFloor")
+Author: whydoidoit
+URL: https://answers.unity.com/questions/296347/move-transform-to-target-in-x-seconds.html
+
+
+Soundsquellen:
+
+Cannon Fire:
+https://freesound.org/people/Superex1110/sounds/77525/
+
+Jump:
+https://freesound.org/people/Leszek_Szary/sounds/146726/
+
+Explosion:
+https://freesound.org/people/Zangrutz/sounds/155235/
+
+Level Complete:
+https://freesound.org/people/jivatma07/sounds/122255/
+
+Door:
+https://freesound.org/people/JarredGibb/sounds/219485/
+
+Game Over:
+https://freesound.org/people/themusicalnomad/sounds/253886/
+
+Coin:
+https://freesound.org/people/ProjectsU012/sounds/341695/
+
+Button Click:
+https://freesound.org/people/EminYILDIRIM/sounds/536108/
+
+Game Win:
+https://freesound.org/people/lonemonk/sounds/31169/
+
+Schlid:
+https://freesound.org/people/nhill2003/sounds/572459/
+
+
+
+
